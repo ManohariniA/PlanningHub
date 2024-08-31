@@ -14,8 +14,7 @@ pip install -r requirements.txt
 
 # Run the Project:
 
-python <file_name> <br>
-# eg: python main.py
+python main.py <br>
 
 
 
