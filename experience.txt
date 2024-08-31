@@ -1,0 +1,3 @@
+The Planning Permission code challenge provided a valuable opportunity to explore a new domain. Initially, the complex Excel sheet structure presented a parsing challenge, requiring careful identification of relevant headers. Data cleaning was a crucial subsequent step, ensuring the removal of inconsistencies and missing values.
+
+While data loading and cleansing consumed a significant portion of the project, the remaining tasks of filtering and applying business logic to the cleansed data proved to be relatively straightforward. This experience highlighted the importance of a robust data foundation in facilitating efficient analysis and decision-making.
